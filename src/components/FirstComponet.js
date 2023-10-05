@@ -6,6 +6,7 @@ function FirstComponent() {
         <div className="firstcomponent">
             <p>Primeiro Componente</p>
             <p>Nome: {name}</p>
+            {2+2};
         </div>
     );
 }
